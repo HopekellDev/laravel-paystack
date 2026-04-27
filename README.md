@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/hopekelldev/laravel-paystack)
 ![Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravel-paystack)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/hopekelldev/laravel-paystack/tests.yml)
-![Code Quality](https://img.shields.io/codefactor/grade/github/hopekelldev/laravel-paystack)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/HopekellDev/laravel-paystack/main.svg?style=flat-square)](https://scrutinizer-ci.com/g/HopekellDev/laravel-paystack/?branch=main)
 
 ---
 
