@@ -298,7 +298,7 @@ Paystack
 
 ---
 
-## 🗂 Suggested Folder Structure
+## 🗂 Packaage Folder Structure
 
 ```txt
 src/
