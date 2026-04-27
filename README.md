@@ -3,10 +3,10 @@
 ![Packagist Version](https://img.shields.io/packagist/v/hopekelldev/laravel-paystack)
 ![PHP Version](https://img.shields.io/packagist/php-v/hopekelldev/laravel-paystack)
 ![Laravel Version](https://img.shields.io/badge/Laravel-13.x-red)
-![License](https://img.shields.io/github/license/hopekelltech/laravel-paystack)
+![License](https://img.shields.io/github/license/hopekelldev/laravel-paystack)
 ![Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravel-paystack)
-![Build Status](https://img.shields.io/github/actions/workflow/status/hopekelltech/laravel-paystack/tests.yml)
-![Code Quality](https://img.shields.io/codefactor/grade/github/hopekelltech/laravel-paystack)
+![Build Status](https://img.shields.io/github/actions/workflow/status/hopekelldev/laravel-paystack/tests.yml)
+![Code Quality](https://img.shields.io/codefactor/grade/github/hopekelldev/laravel-paystack)
 
 ---
 
