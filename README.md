@@ -5,7 +5,7 @@
 ![Laravel Version](https://img.shields.io/badge/Laravel-13.x-red)
 ![License](https://img.shields.io/github/license/hopekelldev/laravel-paystack)
 ![Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravel-paystack)
-![Build Status](https://img.shields.io/github/actions/workflow/status/hopekelldev/laravel-paystack/tests.yml)
+<!-- ![Build Status](https://img.shields.io/github/actions/workflow/status/hopekelldev/laravel-paystack/tests.yml) -->
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/quality/g/HopekellDev/laravel-paystack/main.svg?style=flat-square)](https://scrutinizer-ci.com/g/HopekellDev/laravel-paystack/?branch=main)
 
 ---
