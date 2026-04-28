@@ -1,0 +1,11 @@
+build:
+  environment:
+    php:
+      version: 8.2
+
+  nodes:
+    analysis:
+      tests:
+        override:
+          - command: composer self-update --2
+          - command: composer install --no-interaction --prefer-dist
