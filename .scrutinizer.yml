@@ -5,7 +5,6 @@ build:
 
   dependencies:
     before:
-      - composer self-update --2
       - composer install --no-interaction --prefer-dist
 
   tests:
@@ -18,4 +17,3 @@ checks:
 filter:
   excluded_paths:
     - vendor/*
-    - tests/*
