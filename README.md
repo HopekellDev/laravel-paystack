@@ -7,6 +7,7 @@
 ![Downloads](https://img.shields.io/packagist/dt/hopekelldev/laravel-paystack)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/HopekellDev/laravel-paystack/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/HopekellDev/laravel-paystack/?branch=main)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/HopekellDev/laravel-paystack/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
+[![Build Status](https://scrutinizer-ci.com/g/HopekellDev/laravel-paystack/badges/build.png?b=main)](https://scrutinizer-ci.com/g/HopekellDev/laravel-paystack/build-status/main)
 
 ---
 ![Laravel Paystack Banner](https://raw.githubusercontent.com/HopekellDev/laravel-paystack/main/assets/banner.png)
