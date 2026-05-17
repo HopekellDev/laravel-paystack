@@ -5,7 +5,7 @@ build:
 
   dependencies:
     before:
-      - composer install --no-interaction --prefer-dist
+      - composer install --no-interaction --prefer-dist --no-dev
 
   tests:
     override:
@@ -14,6 +14,16 @@ build:
 checks:
   php: true
 
+tools:
+  php_code_sniffer: false
+  php_cs_fixer: false
+  php_cpd: false
+  php_loc: false
+  php_mess_detector: false
+  php_pdepend: false
+  sensiolabs_security_checker: false
+
 filter:
   excluded_paths:
     - vendor/*
+    - tests/*
